@@ -1,0 +1,403 @@
+{
+  "before_session_1": {
+    "timeframe": "The months leading up to seeking help",
+    "summary": "In the months before Brooke sought help, her anxiety about returning to the animal shelter intensified. She began avoiding her regular visits, and her guilt over this avoidance grew as she felt she was letting the animals down. Her sleep patterns became disrupted, and she often found herself lying awake, worrying about her perceived failures. This situation began to impact her relationships with fellow volunteers and her overall enjoyment of her job.",
+    "events": [
+      {
+        "title": "Avoiding the Shelter",
+        "description": "Brooke decided to avoid going to the animal shelter for weeks after her last visit, feeling that the animals would be indifferent or hostile towards her. Each day she skipped felt like another failure to connect with the animals she cared for.",
+        "emotions": [
+          "anxiety",
+          "guilt"
+        ],
+        "dominant_thoughts": [
+          "They will hate me for not returning.",
+          "I can't face them again."
+        ],
+        "behaviors": [
+          "staying home",
+          "refusing invitations to volunteer"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "direct_trigger"
+      },
+      {
+        "title": "Disrupted Sleep",
+        "description": "Brooke found herself lying awake at night, worrying about the animals at the shelter. Thoughts of rejection and self-blame played on repeat in her mind, causing her to feel exhausted during the day.",
+        "emotions": [
+          "frustration",
+          "sadness"
+        ],
+        "dominant_thoughts": [
+          "I'm failing them by not being there.",
+          "I should be doing better."
+        ],
+        "behaviors": [
+          "staying up late",
+          "napping during the day"
+        ],
+        "domain": "health",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Strained Relationships",
+        "description": "Brooke noticed her relationships with fellow volunteers becoming strained due to her avoidance of the shelter. Friends reached out to check on her, but she felt embarrassed and distanced herself instead of opening up.",
+        "emotions": [
+          "shame",
+          "loneliness"
+        ],
+        "dominant_thoughts": [
+          "They won't understand how I feel.",
+          "I must handle this alone."
+        ],
+        "behaviors": [
+          "not responding to texts",
+          "declining invitations"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "parallel_trigger"
+      }
+    ]
+  },
+  "between_sessions_1_2": {
+    "timeframe": "The week following the decision to seek help",
+    "summary": "After deciding to address her anxiety, Brooke managed to write down her feelings about the shelter in a journal. While she felt a small sense of relief, she also faced a horrible day at work when a co-worker criticized her abilities. This triggered her feelings of inadequacy and self-blame, causing her to retreat even further.",
+    "events": [
+      {
+        "title": "Journaling",
+        "description": "Brooke took the initiative to write about her feelings regarding the shelter. This effort brought her clarity but also highlighted the depth of her emotions.",
+        "emotions": [
+          "relief",
+          "pain"
+        ],
+        "dominant_thoughts": [
+          "I need to confront my fears.",
+          "Will I ever feel okay about this?"
+        ],
+        "behaviors": [
+          "writing daily",
+          "reflecting on past shelter interactions"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Work Criticism",
+        "description": "While at work, Brooke's supervisor pointed out a mistake she made with a client's pet. This led to a wave of self-doubt, reigniting her old fears of inadequacy.",
+        "emotions": [
+          "shame",
+          "fear"
+        ],
+        "dominant_thoughts": [
+          "I'm not good enough.",
+          "I can't do this right."
+        ],
+        "behaviors": [
+          "withdrawing from co-workers",
+          "second-guessing herself during shifts"
+        ],
+        "domain": "work",
+        "relation_to_presenting_problem": "parallel_trigger"
+      }
+    ]
+  },
+  "between_sessions_2_3": {
+    "timeframe": "One week after the initial efforts to change",
+    "summary": "Brooke tried to visit the shelter but became paralyzed by anxiety just outside the gates, ultimately turning back. Despite this setback, she offered to help at a local animal event instead, which helped her feel somewhat reinvigorated but still anxious about the shelter.",
+    "events": [
+      {
+        "title": "Failed Attempt to Visit Shelter",
+        "description": "Brooke drove to the animal shelter, intending to rekindle her connections with the animals but was overwhelmed by feelings of guilt and fear at the entrance, resulting in her decision to leave instead.",
+        "emotions": [
+          "fear",
+          "guilt"
+        ],
+        "dominant_thoughts": [
+          "They'll reject me.",
+          "I can't do this."
+        ],
+        "behaviors": [
+          "driving away",
+          "crying in the car"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "direct_trigger"
+      },
+      {
+        "title": "Volunteer Event",
+        "description": "Brooke volunteered at a local animal adoption fair, focusing on her love for animals rather than her fears about the shelter. This was a refreshing experience, allowing her to meet new people and interact with animals in a positive environment.",
+        "emotions": [
+          "joy",
+          "nervousness"
+        ],
+        "dominant_thoughts": [
+          "I can still help animals.",
+          "Maybe I can overcome my fears."
+        ],
+        "behaviors": [
+          "engaging with other volunteers",
+          "smiling at the adoption event"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "background"
+      }
+    ]
+  },
+  "between_sessions_3_4": {
+    "timeframe": "A week of reflection and slight improvement",
+    "summary": "After her experiences at the volunteer event, Brooke spent a few nights reflecting on her interactions through journaling. She began to see small positives, though her fear about the shelter persisted, leading her to consider exploring new ways to interact with pets.",
+    "events": [
+      {
+        "title": "Reflections on the Volunteer Event",
+        "description": "Brooke took time to journal about her experience at the adoption fair, realizing that her fears diminished while surrounded by supportive people.",
+        "emotions": [
+          "hope",
+          "gratitude"
+        ],
+        "dominant_thoughts": [
+          "Not all animals will reject me.",
+          "I can rebuild trust."
+        ],
+        "behaviors": [
+          "writing nightly",
+          "thinking of ways to return to the shelter"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Seeking Comfort from Pets",
+        "description": "Feeling inspired, Brooke decided to spend more time with her own pets and took one of them for regular walks at the park. This was a comforting experience and boosted her confidence.",
+        "emotions": [
+          "contentment",
+          "alleviation"
+        ],
+        "dominant_thoughts": [
+          "I can enjoy my time with animals.",
+          "This is a positive step."
+        ],
+        "behaviors": [
+          "taking daily walks with pets",
+          "interacting more with them"
+        ],
+        "domain": "health",
+        "relation_to_presenting_problem": "background"
+      }
+    ]
+  },
+  "between_sessions_4_5": {
+    "timeframe": "Engaging with new experiences",
+    "summary": "Brooke signed up for a local pet training class and started attending with her pets. Although apprehensive at first, she found that focusing on training allowed her to connect with the animals in a more structured way. This new engagement felt hopeful yet scary.",
+    "events": [
+      {
+        "title": "Joining Pet Training Class",
+        "description": "Brooke enrolled in a pet training class to improve her bond with her pets while also engaging with other animal lovers. This structured interaction distracted her from her fears about the shelter.",
+        "emotions": [
+          "nervousness",
+          "excitement"
+        ],
+        "dominant_thoughts": [
+          "This could help me interact with more animals.",
+          "I am taking steps forward."
+        ],
+        "behaviors": [
+          "attending weekly classes",
+          "practicing training at home"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Supportive Friend's Visit",
+        "description": "A friend visited to check on Brooke and ended up inviting her to go hiking. This outing lifted Brooke's spirits and allowed her to share her feelings about the shelter in a supportive environment.",
+        "emotions": [
+          "relief",
+          "happiness"
+        ],
+        "dominant_thoughts": [
+          "I can still connect with others.",
+          "I am not alone."
+        ],
+        "behaviors": [
+          "engaging in conversation",
+          "accepting the invitation"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "parallel_trigger"
+      }
+    ]
+  },
+  "between_sessions_5_6": {
+    "timeframe": "Tension and commitment to change",
+    "summary": "Brooke faced a setback when her work hours were unexpectedly extended, leaving her exhausted and less motivated to attend training classes. This work stress pulled her focus from her goals, causing her anxiety about returning to the shelter to resurface.",
+    "events": [
+      {
+        "title": "Long Work Hours",
+        "description": "Due to staff shortages, Brooke's work hours were extended. This left her feeling drained and questioning her capacity to engage in activities related to her personal well-being.",
+        "emotions": [
+          "frustration",
+          "exhaustion"
+        ],
+        "dominant_thoughts": [
+          "I can't manage this stress on top of everything else.",
+          "I'm letting everyone down."
+        ],
+        "behaviors": [
+          "cancelling plans",
+          "feeling overwhelmed"
+        ],
+        "domain": "work",
+        "relation_to_presenting_problem": "barrier"
+      },
+      {
+        "title": "Sudden Emotional Outburst",
+        "description": "Feeling stressed and overwhelmed, Brooke had an emotional outburst when talking to a friend about her progress and fears. This unexpectedly revealed how much pressure she felt inside.",
+        "emotions": [
+          "sadness",
+          "anger"
+        ],
+        "dominant_thoughts": [
+          "I'm a failure for not overcoming this.",
+          "I never wanted to be like this."
+        ],
+        "behaviors": [
+          "crying",
+          "withdrawing after the incident"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "parallel_trigger"
+      }
+    ]
+  },
+  "between_sessions_6_7": {
+    "timeframe": "Rediscovery of purpose",
+    "summary": "Brooke decided to re-commit to her journaling practice by reflecting on her emotional outburst. This helped her to recognize her need for balance between work and personal endeavors. She also began discussing her fears with her friend, which felt like a breakthrough.",
+    "events": [
+      {
+        "title": "Journaling About Outburst",
+        "description": "Brooke used her journal to reflect on the emotional outburst with her friend, gaining insight into the pressures she faces and how to navigate her feelings.",
+        "emotions": [
+          "clarity",
+          "relief"
+        ],
+        "dominant_thoughts": [
+          "I can understand my emotions better.",
+          "There is hope for change."
+        ],
+        "behaviors": [
+          "writing reflections",
+          "setting small goals"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Opening Up to a Friend",
+        "description": "Brooke found the courage to share her feelings about returning to the shelter with a supportive friend, discussing her fears and guilt in a safe space. This conversation felt like a breakthrough in her journey.",
+        "emotions": [
+          "support",
+          "vulnerability"
+        ],
+        "dominant_thoughts": [
+          "I am not alone in this.",
+          "My feelings are valid."
+        ],
+        "behaviors": [
+          "initiating a deep conversation",
+          "feeling connected"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "background"
+      }
+    ]
+  },
+  "between_sessions_7_8": {
+    "timeframe": "Building momentum",
+    "summary": "Fueled by her renewed perspective, Brooke steadily attended her training classes and continued journaling. As she spent more time with her pets and engaged in training, her anxiety about the shelter lessened slightly. She also started planning a small visit to the shelter soon, feeling cautiously optimistic.",
+    "events": [
+      {
+        "title": "Consistent Training Classes",
+        "description": "Brooke committed herself to attending her pet training classes consistently. She noticed that her anxiety lessened as she formed friendships with fellow participants and felt more comfortable handling various animals.",
+        "emotions": [
+          "confidence",
+          "joy"
+        ],
+        "dominant_thoughts": [
+          "I can handle this.",
+          "I'm making progress."
+        ],
+        "behaviors": [
+          "attending classes regularly",
+          "chatting with classmates"
+        ],
+        "domain": "friends",
+        "relation_to_presenting_problem": "background"
+      },
+      {
+        "title": "Planning Shelter Visit",
+        "description": "After reflecting on her experiences, Brooke felt motivated to plan a visit to the shelter next week. Though nerves remained, the notion of reconnecting with the animals excited her.",
+        "emotions": [
+          "anticipation",
+          "nervousness"
+        ],
+        "dominant_thoughts": [
+          "This could be a stepping stone.",
+          "Maybe it won't be as bad as I think."
+        ],
+        "behaviors": [
+          "preparing for the visit",
+          "talking to friends about it"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "direct_trigger"
+      }
+    ]
+  },
+  "between_sessions_8_9": {
+    "timeframe": "The week of the shelter visit",
+    "summary": "Brooke finally made her planned visit to the shelter. Although she felt apprehensive, she focused on her pets' training and the positive experiences she had recently. The visit was challenging, but she managed to engage with a few animals, feeling a sense of accomplishment.",
+    "events": [
+      {
+        "title": "First Shelter Visit in Months",
+        "description": "Brooke mustered the courage to visit the animal shelter after a long absence. The experience was both nerve-wracking and rewarding, as she connected with a few familiar animals.",
+        "emotions": [
+          "nervousness",
+          "pride"
+        ],
+        "dominant_thoughts": [
+          "They may not remember me.",
+          "I'm proud of myself for coming."
+        ],
+        "behaviors": [
+          "interacting with a few animals",
+          "taking deep breaths"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "direct_trigger"
+      },
+      {
+        "title": "Reflecting on the Visit",
+        "description": "After returning home, Brooke journaled about her shelter experience. She acknowledged the difficulties she faced but also celebrated the small victories in reconnecting with the animals.",
+        "emotions": [
+          "accomplishment",
+          "relief"
+        ],
+        "dominant_thoughts": [
+          "This is a step forward.",
+          "I can do this again."
+        ],
+        "behaviors": [
+          "writing about the visit",
+          "sharing her success with friends"
+        ],
+        "domain": "daily_life",
+        "relation_to_presenting_problem": "background"
+      }
+    ]
+  },
+  "global_trajectory": {
+    "cognitive_change": "Brooke's thinking gradually shifted from rigid beliefs about her relationships with the shelter animals to a more balanced view that acknowledges both her strengths and her fear of rejection. This flexibility allowed her to recognize that not all animals would remember her in the same way.",
+    "emotional_change": "Throughout the journey, Brooke experienced a significant reduction in emotional distress, managing her anxiety more effectively as she engaged in positive interactions with both her pets and other people.",
+    "behavioral_change": "Brooke moved from a place of avoidance to active engagement, resuming her activities within the animal community and fostering relationships, both with animals and friends."
+  }
+}
